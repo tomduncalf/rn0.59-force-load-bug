@@ -1,0 +1,3 @@
+rootProject.name = 'forceLoad59rc2'
+
+include ':app'
